@@ -1,0 +1,10 @@
+Finite Geometric Series
+-----------------------
+
+A finite geometric series is a summation of the form
+					a+ar+arý+...ar^n.
+	If r is not 1, this sum is equal to
+
+					 Ú 1 - r^n+1 ¿
+					a³ ÄÄÄÄÄÄÄÄÄ ³.
+					 À   1 - r   Ù
